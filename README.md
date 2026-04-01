@@ -1,19 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=500&lines=Welcome+to+my+profile" alt="Typing SVG" />
 </div>
-
----
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/%7Busername%7D/count.svg" alt="Visitor Count" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Raketenoscar&show_icons=true&theme=radical&border_color=00FF88&title_color=00FF88&text_color=00FFFF" alt="GitHub Stats" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
@@ -30,8 +17,6 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
 
 ---
 
@@ -51,9 +36,9 @@
 
 <p align="center">
   <a href="https://github.com/Raketenoscar/TodUx">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raketenoscar&repo=TodUx&theme=radical&border_color=00FF88&title_color=00FF88&text_color=00FFFF" alt="Repo 1" />
+    <img src="https://img.shields.io/github/stars/Raketenoscar/TodUx?style=social&label=Stars&color=00FF88&logo=github" alt="TodUx Stars" />
   </a>
   <a href="https://github.com/Raketenoscar/TodUx-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raketenoscar&repo=TodUx-backend&theme=radical&border_color=00FF88&title_color=00FF88&text_color=00FFFF" alt="Repo 2" />
+    <img src="https://img.shields.io/github/stars/Raketenoscar/TodUx-backend?style=social&label=Stars&color=00FF88&logo=github" alt="Backend Stars" />
   </a>
 </p>
