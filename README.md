@@ -6,6 +6,8 @@
 </p>
 
 ---
+# 💫 About Me:
+My Name is Oscar and I am 14 years old. <br>My hobbies are Programming and Gaming. <br>I'm currently Working on a full stack Todo App called TodUx.<br>I'm trying to learn how to use React, Electron and Docker.
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Raketenoscar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Raketenoscar@proton.me)
